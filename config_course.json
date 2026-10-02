@@ -1,0 +1,5 @@
+{
+  "nom_course": "6H Fuji",
+  "jours": ["Vendredi", "Samedi", "Dimanche"],
+  "creneaux": ["2h00", "7h00", "12h00", "17h00", "22h00"]
+}
